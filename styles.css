@@ -18,7 +18,6 @@ a{
 }
 body{
     background-size: 100% 100%;
-    background-image: url('riot.png');
     background-repeat: no-repeat;
     background-color: black;
     background-attachment: fixed;
