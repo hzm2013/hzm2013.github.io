@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size: 3em;
+}
+p{
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size:40px;
+}
+a{
+    background-color: black;
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size: 40px;
+}
+body{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-attachment: fixed;
+}

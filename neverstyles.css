@@ -1,0 +1,14 @@
+div {
+    text-align: center;
+}
+.a{
+   color:#0000FF; /*设置文字颜色*/
+   text-decoration: none;
+   font-size:5em; /*设置字体大小*/
+   font-family:"微软雅黑";/*设置字体*/
+   -webkit-animation: shine 2.4s infinite;/*设置动画*/
+}
+    @-webkit-keyframes shine{/*创建动画*/
+    0%,100%{ color:#fff;text-shadow:0 0 10px #0000FF,0 0 10px #0000FF; }
+    50%{ text-shadow:0 0 10px #0000FF,0 0 40px #0000FF; }
+}

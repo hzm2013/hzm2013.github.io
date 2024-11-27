@@ -1,0 +1,36 @@
+h1{
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size: 40px;
+    border:2px solid white;
+}
+p{
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size:40px;
+    border:2px solid white;
+}
+a{
+    background-color: black;
+    color: white;
+    font-family:"宋体", Times, serif;
+    font-size: 40px;
+}
+body{
+    background-size: 100% 100%;
+    background-image: url('riot.png');
+    background-repeat: no-repeat;
+    background-color: black;
+    background-attachment: fixed;
+}
+video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-filter: grayscale(20%);
+}
